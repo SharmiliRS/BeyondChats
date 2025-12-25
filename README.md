@@ -1,4 +1,4 @@
-AI Article Automation System – 3 Phase Architecture
+Blogs – 3 Phase Architecture
 Overview
 
 This project implements a 3-phase automated content pipeline using:
